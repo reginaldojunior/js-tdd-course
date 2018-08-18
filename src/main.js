@@ -4,6 +4,6 @@ const b = 2;
 
 const c = 'asf923234239';
 
-const done = a + b + c;
+const sum = () => a + b + c;
 
-console.log(done);
+console.log(sum());
